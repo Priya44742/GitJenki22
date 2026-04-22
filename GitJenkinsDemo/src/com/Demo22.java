@@ -8,4 +8,8 @@ public class Demo22 {
        System.out.println("New line added into main");
 	}
 
+	public void m1()
+	{
+		System.out.println("Hello This is m1 Method");
+	}
 }
