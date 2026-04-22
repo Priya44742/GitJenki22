@@ -7,9 +7,12 @@ public class Demo22 {
 		System.out.println("Hello This is Demo22 class");
        System.out.println("New line added into main");
 	}
-
 	public void m2()
 	{
 		System.out.println("This is m2 Method");
+	}
+	public void m3()
+	{
+		System.out.println("This is m3 Method");
 	}
 }
