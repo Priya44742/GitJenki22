@@ -14,5 +14,6 @@ public class Demo22 {
 	public void m3()
 	{
 		System.out.println("This is m3 Method");
+		System.out.println("Welcome to CJC");
 	}
 }
